@@ -3,6 +3,7 @@
 
 
 
+
 Make My Trip : Case Study
 A manager at a travel app has come up with some questions and asks the Data Analyst in the company to fetch the answers for the same:
 
